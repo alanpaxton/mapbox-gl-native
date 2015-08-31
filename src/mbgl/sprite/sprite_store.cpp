@@ -6,7 +6,6 @@
 #include <mbgl/storage/response.hpp>
 #include <mbgl/util/exception.hpp>
 #include <mbgl/util/thread_context.hpp>
-#include <mbgl/util/run_loop.hpp>
 
 #include <string>
 #include <sstream>
