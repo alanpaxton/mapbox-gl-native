@@ -1,6 +1,6 @@
 #include <mbgl/style/class_dictionary.hpp>
 
-#include <uv.h>
+#include <pthread.h>
 
 namespace mbgl {
 
